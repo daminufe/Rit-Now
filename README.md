@@ -19,4 +19,6 @@ You will need the following things properly installed on your computer.
 * `node index.js`
 
 I suggest you to install [nodemon](http://nodemon.io/), to monitor and reload Node after any file changes. 
-And then, you can run your app with * `nodemon index.js`
+And then, you can run your app with 
+
+* `nodemon index.js`
