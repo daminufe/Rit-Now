@@ -11,9 +11,12 @@ You will need the following things properly installed on your computer.
 ## Installation
 
 * `git clone <repository-url>` this repository
-* change into the new directory
+* `cd Rit-Now/` change into the new directory
 * `npm install`
 
 ## Running
 
 * `node index.js`
+
+I suggest you to install [nodemon](http://nodemon.io/), to monitor and reload Node after any file changes. 
+And then, you can run your app with * `nodemon index.js`
